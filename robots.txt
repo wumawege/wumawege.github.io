@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://wumawege.github.io/sitemap/sitemap_index.wumawege
+Sitemap: https://wumawege.github.io/tPV/sitemap_index.wumawege
+Sitemap: https://wumawege.github.io/Fet/sitemap_index.wumawege
+Sitemap: https://wumawege.github.io/woC/sitemap_index.wumawege
+Sitemap: https://wumawege.github.io/CKJ/sitemap_index.wumawege
+Sitemap: https://wumawege.github.io/HGe/sitemap_index.wumawege
+Sitemap: https://wumawege.github.io/QmN/sitemap_index.wumawege
+Sitemap: https://wumawege.github.io/dyE/sitemap_index.wumawege
+Sitemap: https://wumawege.github.io/xgL/sitemap_index.wumawege
+Sitemap: https://wumawege.github.io/fvQ/sitemap_index.wumawege
+Sitemap: https://wumawege.github.io/jqZ/sitemap_index.wumawege
+Sitemap: https://wumawege.github.io/Kcm/sitemap_index.wumawege
+Sitemap: https://wumawege.github.io/Ekh/sitemap_index.wumawege
+Sitemap: https://wumawege.github.io/FlW/sitemap_index.wumawege
+Sitemap: https://wumawege.github.io/eSK/sitemap_index.wumawege
+Sitemap: https://wumawege.github.io/HoL/sitemap_index.wumawege
+Sitemap: https://wumawege.github.io/Wnl/sitemap_index.wumawege
+Sitemap: https://wumawege.github.io/vgP/sitemap_index.wumawege
+Sitemap: https://wumawege.github.io/lPG/sitemap_index.wumawege
+Sitemap: https://wumawege.github.io/jMP/sitemap_index.wumawege
+Sitemap: https://wumawege.github.io/xGq/sitemap_index.wumawege
